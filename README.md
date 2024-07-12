@@ -1,4 +1,4 @@
 # Git_tutorial
 This is for learning git.
 <br>
-Author - Durgesh kushwaha
+Author - {Durgesh_kushwaha}
